@@ -35,7 +35,7 @@ mod test {
     use cosmwasm_std::{from_binary, Addr, Decimal, Uint128};
     use pool_network::asset::AssetInfo;
     use vault_network::vault::{Config, PaybackAmountResponse, QueryMsg};
-    use NICO_10::fee::{Fee, VaultFee};
+    use nico_teen::fee::{Fee, VaultFee};
 
     #[test]
     fn returns_payback_amount() {

@@ -11,7 +11,7 @@
 
 <!-- 
     
-    Add the list of issues related to this PR from the [issue tracker](https://github.com/NICO_10-Defi-Platform/migaloo-core/issues).
+    Add the list of issues related to this PR from the [issue tracker](https://github.com/nico_teen-Defi-Platform/migaloo-core/issues).
     Indicate, which of these issues are resolved or fixed by this PR, like #XXXX, where XXXX is the issue number.
 
 -->
@@ -31,7 +31,7 @@
 
 -->
 
-- [ ] I have read [Migaloo's contribution guidelines](https://github.com/NICO_10-Defi-Platform/migaloo-core/blob/main/CONTRIBUTING.md).
+- [ ] I have read [Migaloo's contribution guidelines](https://github.com/nico_teen-Defi-Platform/migaloo-core/blob/main/CONTRIBUTING.md).
 - [ ] My pull request has a sound title and description (not something vague like `Update index.md`)
 - [ ] All existing and new tests are passing.
 - [ ] I updated/added relevant documentation.

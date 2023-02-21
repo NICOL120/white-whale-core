@@ -8,7 +8,7 @@ use serde::{Deserialize, Serialize};
 use crate::helpers::instantiate_fees;
 use pool_network::asset::{AssetInfo, AssetInfoRaw, PairType};
 use pool_network::pair::{Config, FeatureToggle};
-use NICO_10::fee::Fee;
+use nico_teen::fee::Fee;
 
 use crate::state::{ALL_TIME_BURNED_FEES, CONFIG, PAIR_INFO};
 

@@ -18,7 +18,7 @@ use crate::state::{Config, CONFIG, PAIRS, TMP_PAIR_INFO};
 use crate::{commands, queries};
 
 // version info for migration info
-const CONTRACT_NAME: &str = "NICO_10-pool_factory";
+const CONTRACT_NAME: &str = "nico_teen-pool_factory";
 const CONTRACT_VERSION: &str = env!("CARGO_PKG_VERSION");
 
 #[cfg_attr(not(feature = "library"), entry_point)]

@@ -1,5 +1,5 @@
 use cosmwasm_std::Decimal;
-use NICO_10::fee::{Fee, VaultFee};
+use nico_teen::fee::{Fee, VaultFee};
 
 pub fn get_fees() -> VaultFee {
     VaultFee {

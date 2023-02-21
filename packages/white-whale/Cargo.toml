@@ -1,5 +1,5 @@
 [package]
-name = "NICO_10"
+name = "nico_teen"
 version = "1.0.0"
 edition.workspace = true
 authors = ["Kerber0x <kerber0x@protonmail.com>"]

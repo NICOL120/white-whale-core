@@ -1,7 +1,7 @@
 use cosmwasm_std::{to_binary, DepsMut, Env, ReplyOn, Response, SubMsg, WasmMsg};
 use pool_network::asset::AssetInfo;
 use vault_network::{vault::InstantiateMsg, vault_factory::INSTANTIATE_VAULT_REPLY_ID};
-use NICO_10::fee::VaultFee;
+use nico_teen::fee::VaultFee;
 
 use crate::{
     asset::AssetReference,
@@ -71,7 +71,7 @@ mod tests {
     use cw_multi_test::Executor;
     use pool_network::asset::AssetInfo;
     use vault_network::vault_factory::INSTANTIATE_VAULT_REPLY_ID;
-    use NICO_10::fee::{Fee, VaultFee};
+    use nico_teen::fee::{Fee, VaultFee};
 
     use crate::{
         contract::execute,

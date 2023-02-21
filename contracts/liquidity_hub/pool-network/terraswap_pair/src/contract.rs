@@ -23,7 +23,7 @@ use crate::state::{
 use crate::{commands, helpers, queries};
 
 // version info for migration info
-const CONTRACT_NAME: &str = "NICO_10-pool";
+const CONTRACT_NAME: &str = "nico_teen-pool";
 const CONTRACT_VERSION: &str = env!("CARGO_PKG_VERSION");
 
 const INSTANTIATE_REPLY_ID: u64 = 1;

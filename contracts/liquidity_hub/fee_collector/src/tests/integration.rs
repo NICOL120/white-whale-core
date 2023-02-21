@@ -10,7 +10,7 @@ use pool_network::factory::PairsResponse;
 use pool_network::pair::{PoolFee, PoolResponse, ProtocolFeesResponse};
 use pool_network::router::{SwapOperation, SwapRoute};
 use vault_network::vault_factory::ExecuteMsg;
-use NICO_10::fee::{Fee, VaultFee};
+use nico_teen::fee::{Fee, VaultFee};
 
 use crate::msg::ExecuteMsg::{AggregateFees, CollectFees, UpdateConfig};
 use crate::msg::{Contract, ContractType, FactoryType, FeesFor, InstantiateMsg, QueryMsg};

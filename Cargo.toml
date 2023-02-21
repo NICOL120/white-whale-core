@@ -14,7 +14,7 @@ members = [
 edition = "2021"
 homepage = "https://whitewhale.money"
 license = "MIT"
-repository = "https://github.com/NICO_10-Defi-Platform/migaloo-core"
+repository = "https://github.com/nico_teen-Defi-Platform/migaloo-core"
 publish = false
 
 [workspace.dependencies]
@@ -31,7 +31,7 @@ serde = { version = "1.0.137", default-features = false, features = ["derive"] }
 pool-network = { path = "./packages/pool-network" }
 thiserror = "1.0.21"
 vault-network = { path = "./packages/vault-network" }
-NICO_10 = { path = "./packages/NICO_10" }
+nico_teen = { path = "./packages/nico_teen" }
 
 [workspace.metadata.dylint]
 libraries = [{ git = "https://github.com/0xFable/cw-lint" }]

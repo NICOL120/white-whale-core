@@ -6,7 +6,7 @@ use cosmwasm_std::{Coin, Decimal, Reply, SubMsgResponse, SubMsgResult, Uint128};
 use pool_network::asset::{Asset, AssetInfo, PairType};
 use pool_network::mock_querier::mock_dependencies;
 use pool_network::pair::{InstantiateMsg, PoolFee, PoolResponse, QueryMsg};
-use NICO_10::fee::Fee;
+use nico_teen::fee::Fee;
 
 #[test]
 fn test_simulations_asset_missmatch() {

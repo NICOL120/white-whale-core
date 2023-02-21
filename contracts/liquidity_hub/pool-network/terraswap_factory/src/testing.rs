@@ -14,7 +14,7 @@ use pool_network::mock_querier::{mock_dependencies, WasmMockQuerier};
 use pool_network::pair::{
     InstantiateMsg as PairInstantiateMsg, MigrateMsg as PairMigrateMsg, PoolFee,
 };
-use NICO_10::fee::Fee;
+use nico_teen::fee::Fee;
 
 use crate::contract::{execute, instantiate, migrate, query, reply};
 use crate::error::ContractError;

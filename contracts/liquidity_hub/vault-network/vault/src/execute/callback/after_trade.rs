@@ -104,7 +104,7 @@ mod test {
 
     use pool_network::asset::{Asset, AssetInfo};
     use vault_network::vault::Config;
-    use NICO_10::fee::{Fee, VaultFee};
+    use nico_teen::fee::{Fee, VaultFee};
 
     use crate::state::ALL_TIME_BURNED_FEES;
     use crate::{

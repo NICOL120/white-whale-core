@@ -10,7 +10,7 @@ use crate::state::{Config, CONFIG};
 use crate::ContractError::MigrateInvalidVersion;
 use crate::{commands, migrations, queries};
 
-const CONTRACT_NAME: &str = "NICO_10-fee_collector";
+const CONTRACT_NAME: &str = "nico_teen-fee_collector";
 const CONTRACT_VERSION: &str = env!("CARGO_PKG_VERSION");
 
 #[cfg_attr(not(feature = "library"), entry_point)]

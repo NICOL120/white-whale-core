@@ -1,7 +1,7 @@
 use cosmwasm_schema::{cw_serde, QueryResponses};
 use cosmwasm_std::{Addr, Binary, Uint128};
 use pool_network::asset::{Asset, AssetInfo};
-use NICO_10::fee::VaultFee;
+use nico_teen::fee::VaultFee;
 
 #[cw_serde]
 pub struct InstantiateMsg {

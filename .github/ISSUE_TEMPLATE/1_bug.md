@@ -12,14 +12,14 @@ assignees: ''
      If you are looking for support, please check out our documentation
      or consider asking a question on Discord's smart contract channel:
       * https://whitewhale.money/
-      * https://NICO_10-defi-platform.github.io/docs/
+      * https://nico_teen-defi-platform.github.io/docs/
       * https://discordapp.com/channels/908044702794801233/987301947440767006
 
      If you have found a bug or if our documentation doesn't have an answer
      to what you're looking for, then fill out the template below.
 -->
 
-If you want to report a security issue, please follow our security policy: `https://github.com/NICO_10-Defi-Platform/migaloo-core/blob/main/SECURITY.md`
+If you want to report a security issue, please follow our security policy: `https://github.com/nico_teen-Defi-Platform/migaloo-core/blob/main/SECURITY.md`
 
 ---
 ## Steps to Reproduce

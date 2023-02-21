@@ -40,5 +40,5 @@ semver.workspace = true
 thiserror.workspace = true
 protobuf.workspace = true
 pool-network.workspace = true
-NICO_10.workspace = true
+nico_teen.workspace = true
 cosmwasm-schema.workspace = true

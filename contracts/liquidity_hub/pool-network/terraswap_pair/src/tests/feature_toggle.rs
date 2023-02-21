@@ -7,7 +7,7 @@ use pool_network::asset::{Asset, AssetInfo, PairType};
 use pool_network::mock_querier::mock_dependencies;
 use pool_network::pair::ExecuteMsg::UpdateConfig;
 use pool_network::pair::{Cw20HookMsg, ExecuteMsg, FeatureToggle, InstantiateMsg, PoolFee};
-use NICO_10::fee::Fee;
+use nico_teen::fee::Fee;
 
 #[test]
 fn test_feature_toggle_swap_disabled() {

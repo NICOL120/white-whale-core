@@ -12,7 +12,7 @@ use crate::migrations;
 use crate::queries::{get_config, get_vault, get_vaults};
 use crate::state::CONFIG;
 
-const CONTRACT_NAME: &str = "NICO_10-vault_factory";
+const CONTRACT_NAME: &str = "nico_teen-vault_factory";
 const CONTRACT_VERSION: &str = env!("CARGO_PKG_VERSION");
 
 #[cfg_attr(not(feature = "library"), entry_point)]

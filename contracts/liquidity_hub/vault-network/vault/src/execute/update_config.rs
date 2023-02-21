@@ -69,7 +69,7 @@ mod test {
 
     use pool_network::asset::AssetInfo;
     use vault_network::vault::{Config, UpdateConfigParams};
-    use NICO_10::fee::{Fee, VaultFee};
+    use nico_teen::fee::{Fee, VaultFee};
 
     use crate::{
         contract::execute,

@@ -2,7 +2,7 @@ use cosmwasm_schema::{cw_serde, QueryResponses};
 use cosmwasm_std::{Addr, Decimal, StdError, StdResult, Uint128};
 use cw20::Cw20ReceiveMsg;
 
-use NICO_10::fee::Fee;
+use nico_teen::fee::Fee;
 
 use crate::asset::{Asset, AssetInfo, PairInfo, PairType};
 

@@ -9,7 +9,7 @@ authors = [
 edition.workspace = true
 description = "Common pool network types"
 license = "Apache-2.0"
-repository = "https://github.com/NICO_10-Defi-Platform/NICO_10-core"
+repository = "https://github.com/nico_teen-Defi-Platform/nico_teen-core"
 homepage = "https://whitewhale.money"
 documentation = "https://docs.whitewhale.money/migaloo-docs"
 
@@ -28,5 +28,5 @@ cosmwasm-std.workspace = true
 schemars.workspace = true
 serde.workspace = true
 protobuf.workspace = true
-NICO_10.workspace = true
+nico_teen.workspace = true
 cosmwasm-schema.workspace = true

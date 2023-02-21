@@ -14,5 +14,5 @@ cosmwasm-std.workspace = true
 pool-network.workspace = true
 serde.workspace = true
 schemars.workspace = true
-NICO_10.workspace = true
+nico_teen.workspace = true
 cosmwasm-schema.workspace = true

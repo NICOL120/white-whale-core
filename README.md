@@ -6,7 +6,7 @@
   </h1>
 </a>
 
-[![codecov](https://codecov.io/github/NICO_10-Defi-Platform/migaloo-core/branch/main/graph/badge.svg?token=Y8S6P1KBS2)](https://codecov.io/github/NICO_10-Defi-Platform/migaloo-core)
+[![codecov](https://codecov.io/github/nico_teen-Defi-Platform/migaloo-core/branch/main/graph/badge.svg?token=Y8S6P1KBS2)](https://codecov.io/github/nico_teen-Defi-Platform/migaloo-core)
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/6401/badge)](https://bestpractices.coreinfrastructure.org/projects/6401)
 [![Discord badge][]][Discord invite]
 [![Twitter handle][]][Twitter badge]
