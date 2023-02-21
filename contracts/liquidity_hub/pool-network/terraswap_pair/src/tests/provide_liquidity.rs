@@ -9,7 +9,7 @@ use cw20::Cw20ExecuteMsg;
 use pool_network::asset::{Asset, AssetInfo, PairType, MINIMUM_LIQUIDITY_AMOUNT};
 use pool_network::mock_querier::mock_dependencies;
 use pool_network::pair::{ExecuteMsg, InstantiateMsg, PoolFee};
-use white_whale::fee::Fee;
+use NICO_10::fee::Fee;
 
 #[test]
 fn provide_liquidity() {

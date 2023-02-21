@@ -13,7 +13,7 @@ White Whale's pool network is based on [Terraswap](https://github.com/terraswap/
 
 ## Running the Pool Network
 
-This repo is a submodule of [Migaloo Core](https://github.com/White-Whale-Defi-Platform/migaloo-core), White Whale's core infrastructure repository.
+This repo is a submodule of [Migaloo Core](https://github.com/NICO_10-Defi-Platform/migaloo-core), White Whale's core infrastructure repository.
 
 You will need Rust 1.44.1+ with wasm32-unknown-unknown target installed.
 

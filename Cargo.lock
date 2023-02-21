@@ -422,7 +422,7 @@ dependencies = [
  "vault",
  "vault-network",
  "vault_factory",
- "white-whale",
+ "NICO_10",
 ]
 
 [[package]]
@@ -583,7 +583,7 @@ dependencies = [
  "schemars",
  "serde",
  "uint",
- "white-whale",
+ "NICO_10",
 ]
 
 [[package]]
@@ -860,7 +860,7 @@ dependencies = [
  "semver",
  "serde",
  "thiserror",
- "white-whale",
+ "NICO_10",
 ]
 
 [[package]]
@@ -879,7 +879,7 @@ dependencies = [
  "semver",
  "serde",
  "thiserror",
- "white-whale",
+ "NICO_10",
 ]
 
 [[package]]
@@ -979,7 +979,7 @@ dependencies = [
  "serde",
  "thiserror",
  "vault-network",
- "white-whale",
+ "NICO_10",
 ]
 
 [[package]]
@@ -991,7 +991,7 @@ dependencies = [
  "pool-network",
  "schemars",
  "serde",
- "white-whale",
+ "NICO_10",
 ]
 
 [[package]]
@@ -1014,7 +1014,7 @@ dependencies = [
  "thiserror",
  "vault",
  "vault-network",
- "white-whale",
+ "NICO_10",
 ]
 
 [[package]]
@@ -1038,7 +1038,7 @@ dependencies = [
  "vault",
  "vault-network",
  "vault_factory",
- "white-whale",
+ "NICO_10",
 ]
 
 [[package]]
@@ -1060,7 +1060,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "9c8d87e72b64a3b4db28d11ce29237c246188f4f51057d65a7eab63b7987e423"
 
 [[package]]
-name = "white-whale"
+name = "NICO_10"
 version = "1.0.0"
 dependencies = [
  "cosmwasm-schema",

@@ -109,7 +109,7 @@ fn test_migration() {
     assert_eq!(
         get_contract_version(&deps.storage),
         Ok(ContractVersion {
-            contract: "white_whale-fee_collector".to_string(),
+            contract: "NICO_10-fee_collector".to_string(),
             version: env!("CARGO_PKG_VERSION").to_string()
         })
     );

@@ -7,7 +7,7 @@ it's not only about writing code. In this document we go through different ways 
 ## Crafting Code
 
 If you are a software developer and want to contribute writing code, the first step is to get familiar with 
-the Migaloo architecture, which you can learn about in our [docs](https://white-whale-defi-platform.github.io/docs/).
+the Migaloo architecture, which you can learn about in our [docs](https://NICO_10-defi-platform.github.io/docs/).
 
 Before you can write any code, please take a look at the list of prerequisites below.  
 
@@ -41,7 +41,7 @@ but feel free to use your preferred code editor.
 
 --- 
 Then fork the code and read it through. We encourage you to make your own contributions, though you might look at the 
-[issue tracker](https://github.com/White-Whale-Defi-Platform/migaloo-core/issues) if you want to solve something that has 
+[issue tracker](https://github.com/NICO_10-Defi-Platform/migaloo-core/issues) if you want to solve something that has 
 been pointed out already.
 
 Make a pull request to our repository once your work is complete. We will review it and discuss potential changes before
@@ -52,8 +52,8 @@ we merge it to the main code base.
 The following are the steps to fork the repository to your GitHub account and clone it to your local machine.
 
 1. Fork the repository.
-    - Go to Migaloo's Core repository, i.e. [Migaloo-Core](https://github.com/White-Whale-Defi-Platform/migaloo-core).
-    - Click on the ["fork" button](https://github.com/White-Whale-Defi-Platform/migaloo-core/fork) located in the top 
+    - Go to Migaloo's Core repository, i.e. [Migaloo-Core](https://github.com/NICO_10-Defi-Platform/migaloo-core).
+    - Click on the ["fork" button](https://github.com/NICO_10-Defi-Platform/migaloo-core/fork) located in the top 
    right corner of the page.
     - Click on your GitHub account where you want to fork the repo.
 2. Clone your fork to your local machine, preferably using the SSH URL. If you have issues cloning this repo, look at the 
@@ -93,7 +93,7 @@ against Migaloo's repository **main branch** as base.
 
 ## Helping out in the issue tracker
 
-We use [Github issues](https://github.com/White-Whale-Defi-Platform/migaloo-core/issues) to manage issues in our code. 
+We use [Github issues](https://github.com/NICO_10-Defi-Platform/migaloo-core/issues) to manage issues in our code. 
 You can help out by resolving or commenting on existing issues or creating new issues for what you find. Whether you want 
 to report an issue or have a feature request, please fill the issue template and provide as much information as possible.
 
@@ -112,7 +112,7 @@ we make sure our code is safe by auditing via third party security firms. Nevert
 If you find a critical vulnerability, please do not report it publicly on the Github issues tracker. Instead, reach out to us 
 in private where we will discuss it in details.
 
-See how to [report security bugs](https://github.com/White-Whale-Defi-Platform/migaloo-core/blob/main/SECURITY.md).
+See how to [report security bugs](https://github.com/NICO_10-Defi-Platform/migaloo-core/blob/main/SECURITY.md).
 
 ## Engaging with the community
 
@@ -124,7 +124,7 @@ channels, creating documentation in our Wiki, creating medium articles or even c
 
 White Whale is a community project, we are curious to hear your ideas for the future of Migaloo! One way to provide feedback
 is by doing to our [Discord channel](https://discordapp.com/channels/908044702794801233/908044703373606954). You can also
-submit a suggestion or feature request through [Github's issue tracker](https://github.com/White-Whale-Defi-Platform/migaloo-core/issues). 
+submit a suggestion or feature request through [Github's issue tracker](https://github.com/NICO_10-Defi-Platform/migaloo-core/issues). 
 When doing so, make sure to describe your idea as good as possible so that we understand what you envision.
 
 ## Bringing your expertise
@@ -133,7 +133,7 @@ Are you a graphic designer and want to help out with some NFTs? Are you a copywr
 Whatever it is, we would love to hear from you and see how we can make White Whale better for everybody.
 
 ## Docs
-When in doubt, please take a look at our [litepaper](https://whitewhale.money/LitepaperV2.pdf) or our [documentation]([https://white-whale-defi-platform.github.io/docs/](https://ww0-1.gitbook.io/migaloo-docs/)).
+When in doubt, please take a look at our [litepaper](https://whitewhale.money/LitepaperV2.pdf) or our [documentation]([https://NICO_10-defi-platform.github.io/docs/](https://ww0-1.gitbook.io/migaloo-docs/)).
 
 # Thank you!
 

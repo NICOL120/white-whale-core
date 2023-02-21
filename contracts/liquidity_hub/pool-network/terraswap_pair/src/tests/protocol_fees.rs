@@ -10,7 +10,7 @@ use cw20::{Cw20ExecuteMsg, Cw20ReceiveMsg};
 use pool_network::asset::{Asset, AssetInfo, PairType};
 use pool_network::mock_querier::mock_dependencies;
 use pool_network::pair::{Cw20HookMsg, ExecuteMsg, InstantiateMsg, PoolFee};
-use white_whale::fee::Fee;
+use NICO_10::fee::Fee;
 
 #[test]
 fn test_protocol_fees() {

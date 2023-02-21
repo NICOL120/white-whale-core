@@ -5,7 +5,7 @@ use cosmwasm_std::{Addr, Decimal, DepsMut, StdError};
 use cw_storage_plus::Item;
 use pool_network::asset::AssetInfo;
 use vault_network::vault::Config;
-use white_whale::fee::{Fee, VaultFee};
+use NICO_10::fee::{Fee, VaultFee};
 
 pub fn migrate_to_v120(deps: DepsMut) -> Result<(), StdError> {
     #[cw_serde]

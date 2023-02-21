@@ -2,7 +2,7 @@ use crate::vault::{self};
 use cosmwasm_schema::{cw_serde, QueryResponses};
 use cosmwasm_std::Addr;
 use pool_network::asset::AssetInfo;
-use white_whale::fee::VaultFee;
+use NICO_10::fee::VaultFee;
 
 /// The instantiation message
 #[cw_serde]

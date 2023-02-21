@@ -10,7 +10,7 @@ use pool_network::mock_querier::mock_dependencies;
 use pool_network::pair::ExecuteMsg::UpdateConfig;
 use pool_network::pair::{Config, InstantiateMsg, MigrateMsg, PoolFee, QueryMsg};
 use pool_network::token::InstantiateMsg as TokenInstantiateMsg;
-use white_whale::fee::Fee;
+use NICO_10::fee::Fee;
 
 use crate::contract::{execute, instantiate, migrate, query, reply};
 use crate::error::ContractError;

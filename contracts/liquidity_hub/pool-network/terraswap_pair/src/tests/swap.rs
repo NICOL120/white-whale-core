@@ -17,7 +17,7 @@ use pool_network::pair::{
     Cw20HookMsg, ExecuteMsg, InstantiateMsg, PoolFee, QueryMsg, ReverseSimulationResponse,
     SimulationResponse,
 };
-use white_whale::fee::Fee;
+use NICO_10::fee::Fee;
 
 #[test]
 fn test_compute_swap_with_huge_pool_variance() {

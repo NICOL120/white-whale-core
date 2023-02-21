@@ -2,7 +2,7 @@
 mod tests {
     use cosmwasm_std::{Decimal, Decimal256, Uint128};
     use pool_network::{asset::PairType, pair::PoolFee};
-    use white_whale::fee::Fee;
+    use NICO_10::fee::Fee;
 
     use crate::{
         helpers::{calculate_stableswap_y, compute_swap, StableSwapDirection, SwapComputation},

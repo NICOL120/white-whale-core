@@ -24,7 +24,7 @@ use crate::operations::execute_swap_operation;
 use crate::state::{Config, CONFIG, SWAP_ROUTES};
 
 // version info for migration info
-const CONTRACT_NAME: &str = "white_whale-pool_router";
+const CONTRACT_NAME: &str = "NICO_10-pool_router";
 const CONTRACT_VERSION: &str = env!("CARGO_PKG_VERSION");
 
 #[cfg_attr(not(feature = "library"), entry_point)]

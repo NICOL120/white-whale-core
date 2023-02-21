@@ -104,7 +104,7 @@ mod test {
 
     use pool_network::asset::{Asset, AssetInfo};
     use vault_network::vault::Config;
-    use white_whale::fee::{Fee, VaultFee};
+    use NICO_10::fee::{Fee, VaultFee};
 
     use crate::state::ALL_TIME_BURNED_FEES;
     use crate::{
